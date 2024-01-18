@@ -19,11 +19,13 @@ a:hover{
     margin: 0 auto;
     display: flex;
     justify-content: space-between;
+    text-decoration: none;
 }
 
 a.logo{
     font-weight: bold;
     padding: 1rem;
+    text-decoration: none;
 }
 
 ul{
@@ -33,8 +35,10 @@ ul{
 }
 
 ul a{
+    text-decoration: none;
     padding: 1rem;
     display: inline-block;
+    
 }
 
 a span{

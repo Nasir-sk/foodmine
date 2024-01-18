@@ -8,7 +8,7 @@ export const sample_foods: Food[]=[
         cookTime:'40-50',
         favorite: false,
         origins:['Italy','India'],
-        stars:4.0,
+        stars:3.5,
         imageUrl:'assets/food.1.jpg',
         tags:['FastFood','Pizza','Lunch']
     },{
@@ -28,7 +28,7 @@ export const sample_foods: Food[]=[
         cookTime:'40-50',
         favorite: false,
         origins:['Italy'],
-        stars:4.2,
+        stars:4.5,
         imageUrl:'assets/food.3.jpg',
         tags:['FastFood','Bread','BreakFast']
     },{
@@ -48,7 +48,7 @@ export const sample_foods: Food[]=[
         cookTime:'40-50',
         favorite: false,
         origins:['Italy','India','China'],
-        stars:4.0,
+        stars:2.5,
         imageUrl:'assets/food.5.jpg',
         tags:['FastFood','Noodles','Lunch']
     },
